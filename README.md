@@ -61,4 +61,4 @@ And for thy mother, she alas is poor,
 Which caused her thus to send thee out of door.
 
 
-So, be kind, and don't make fun! If you somehow manage to squeeze use for my work, let me know! It will totally make my day.
+So, be kind, and don't make fun! If you somehow manage to squeeze some use out of my work, let me know! It will totally make my day.
