@@ -1,0 +1,4 @@
+FAST_data_collection
+====================
+
+This name is sooooo misleading. Apologies in advance. This project is not about quick data collection, but rather is a safety study I am conducting at the medical clinic I work at. Being investigated are a number of different treatments, one of which is water-only fasting, and the protocol uses the horrible acronym FAST. That said, the code in this repository is meant to collect and compile into an easy to review &amp; analyze table format years and years worth of daily patient updates sent over email. The data in the emails has been collected in table formats that keep getting tweaked by the doctors here. The reason I am putting this up on git is because I need good revision control for this incredibly annoying project (the email data is suuuuuch a mess)...
