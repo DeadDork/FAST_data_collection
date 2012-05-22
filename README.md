@@ -5,11 +5,11 @@ The repo name is very misleading. Apologies in advance.
 
 This project is not about quick data collection, but rather about generating data for one-time research purposes. The research in question is a safety study I am conducting at the medical clinic I work at. Namely, I am investigating the relative safety of a number of different diet treatments, one of which is water-only fasting--which is how the study got the horrible acronym FAST.
 
-The purpose of the code in this repository is to take years and years worth of daily patient update emails (stored across a number of .mbox files), and to distill, clean, and consolidate these into one simple table. That said, the format of the data has undergone extensive tweaking by the clinicians over the years, which makes the task at hand herculean (not slaying-the-hydra-herculean, but rather like cleaning-the-Augean-stables-herculean). The reason I am putting this up on git is because I need good revision control while putting together a set of scripts that will output good data from a bad source.
+The purpose of the code in this repository is to take years and years worth of daily patient update emails (stored across a number of .mbox files), and to distill, clean, and consolidate these into one simple table. That said, the format of the data has undergone extensive tweaking by the clinicians over the years, which makes the task at hand herculean (not slaying-the-hydra-herculean, but rather like cleaning-the-Augean-stables-herculean). I am putting this up on GitHub because I need good revision control. Take my word for it: getting good data from a bad source is a huge PITA, involving a ridiculous amount of debugging and error-checking.
 
-Calling it text mining is like calling my dreams of flying into space a rocket ship.
+That said, calling it text mining is like calling my dreams of flying into space a rocket ship.
 
-I can't imagine anybody wanting to look through this repo, let alone wanting to use any of my code. It's ugly ugly ugly. Still, it's my baby. It brings to mind Anna Bradstreet's poem "The Author to her Book":
+All in all, I can't imagine anybody wanting to look through this repo, let alone wanting to use any of my code. It's ugly ugly ugly. Still, it's my baby. Which brings to mind Anna Bradstreet's poem "The Author to her Book":
 
 
 Thou ill-formed offspring of my feeble brain,
@@ -61,4 +61,4 @@ And for thy mother, she alas is poor,
 Which caused her thus to send thee out of door.
 
 
-So, be kind, and don't make fun! If you somehow manage to squeeze some use out of my work, let me know! It will totally make my day.
+It's an ugly little thing, but there was, ahem, quite the expense of spirit. Jokes aside, if you somehow manage to squeeze some use out of my work, let me know! It will totally make my day.
